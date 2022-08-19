@@ -1,4 +1,4 @@
-# Tienda__Git
+# Tienda GIT
 Ejemplo de tienda online usando html y css implementando grid con sus propiedades de grid row grid column
 
 
